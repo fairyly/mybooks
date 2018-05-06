@@ -18,6 +18,7 @@
 ### 文学
 - [禅与摩托车维修艺术](https://fairyly.github.io/daily-perception/2018-04/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.pdf)
 - [小王子](https://fairyly.github.io/daily-perception/201805/%E5%B0%8F%E7%8E%8B%E5%AD%90.pdf)
+- [再不疯狂我们就老了，错过的你不会再有]()
 
 
 

@@ -17,3 +17,7 @@
 
 ### nodejs
 - [Node.js开发加密货币](https://fairyly.gitbooks.io/node-js-blockchain-dev/content/)
+
+
+### typescript
+- [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)

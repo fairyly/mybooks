@@ -15,6 +15,7 @@
 - [Node.js开发加密货币](https://fairyly.gitbooks.io/node-js-blockchain-dev/content/)
 - [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 - [了不起的 Node.js]()
+- [Node in action](https://fairyly.github.io/daily-perception/201805/nodejs%20in%20action(Node.js%E5%AE%9E%E6%88%98).pdf)
 
 ### 文学
 - [禅与摩托车维修艺术](https://fairyly.github.io/daily-perception/2018-04/%E7%A6%85%E4%B8%8E%E6%91%A9%E6%89%98%E8%BD%A6%E7%BB%B4%E4%BF%AE%E8%89%BA%E6%9C%AF.pdf)

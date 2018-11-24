@@ -20,6 +20,8 @@
 
 ## web 书籍
 
+- [http 抓包实战](https://github.com/fairyly/mybooks/blob/master/%E3%80%8AHTTP%E6%8A%93%E5%8C%85%E5%AE%9E%E6%88%98%E3%80%8B_%E8%82%96%E4%BD%B32018%E5%B9%B46%E6%9C%881%E6%97%A5.pdf)
+
 - [http 抓包实战](https://fairyly.github.io/mybooks/%E3%80%8AHTTP%E6%8A%93%E5%8C%85%E5%AE%9E%E6%88%98%E3%80%8B_%E8%82%96%E4%BD%B32018%E5%B9%B46%E6%9C%881%E6%97%A5.pdf)
 
 - [Docker技术入门与实战.pdf](https://fairyly.github.io/mybooks/Docker%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.pdf)

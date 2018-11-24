@@ -8,7 +8,7 @@
 
 ### 职业生涯
 - [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
-  - [掘金 blog](https://juejin.im/entry/5ab789536fb9a028d5671227)
+  - [掘金 blog](https://juejin.im/entry/5ab789536fb9a028d5671227)
 - [码农周刊整理](https://github.com/nemoTyrant/manong)
 
 ### 文学
@@ -25,6 +25,8 @@
 - [Docker技术入门与实战.pdf](https://fairyly.github.io/mybooks/Docker%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8%E4%B8%8E%E5%AE%9E%E6%88%98.pdf)
 
 - [JavaScript权威指南(第6版)(中文版).pdf](https://fairyly.github.io/mybooks/JavaScript%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97(%E7%AC%AC6%E7%89%88)(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
+
+- [JavaScript高级程序设计（第3版）中文 高清 完整.pdf](https://fairyly.github.io/mybooks/JavaScript%E9%AB%98%E7%BA%A7%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%EF%BC%88%E7%AC%AC3%E7%89%88%EF%BC%89%E4%B8%AD%E6%96%87%20%E9%AB%98%E6%B8%85%20%E5%AE%8C%E6%95%B4.pdf)
 
 - [JavaScript设计模式与开发实践.pdf](https://fairyly.github.io/mybooks/JavaScript%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B8%8E%E5%BC%80%E5%8F%91%E5%AE%9E%E8%B7%B5.pdf)
 

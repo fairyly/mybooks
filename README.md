@@ -36,6 +36,8 @@
 
 - [深入浅出Node.js(朴灵).pdf](https://fairyly.github.io/mybooks/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BANode.js(%E6%9C%B4%E7%81%B5).pdf)
 
+- - [重构_改善既有代码的设计[高清版].pdf](https://fairyly.github.io/mybooks/重构_改善既有代码的设计[高清版].pdf)
+
 - [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 
 

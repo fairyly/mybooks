@@ -1,0 +1,23 @@
+{
+  "name": "mybooks",
+  "version": "1.0.0",
+  "description": "read book",
+  "main": "index.js",
+  "scripts": {
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairyly/mybooks.git"
+  },
+  "keywords": [
+    "read",
+    "book"
+  ],
+  "author": "fairyily@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fairyly/mybooks/issues"
+  },
+  "homepage": "https://github.com/fairyly/mybooks#readme"
+}

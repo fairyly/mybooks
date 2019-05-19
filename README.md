@@ -40,7 +40,7 @@
 
 - [程序员的自我修养](https://leohxj.gitbooks.io/a-programmer-prepares/content/)
 
-- [Linux+Shell编程从入门到精通.张昊.pdf]()
+- [Linux+Shell编程从入门到精通.张昊.pdf](https://fairyly.github.io/mybooks/Linux+Shell%E7%BC%96%E7%A8%8B%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.%E5%BC%A0%E6%98%8A.pdf)
 
 
 

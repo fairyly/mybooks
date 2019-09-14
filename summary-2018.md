@@ -51,7 +51,7 @@
 ![](https://user-gold-cdn.xitu.io/2018/12/2/1676d04052da6fce?w=1071&h=878&f=png&s=164447)
 
 ## 开始整理房产信息
->十一假期家里有事，提前回去，最后由于各种原因还是和女朋友分手了（可能还是距离），就想着整理下买房的信息
+>十一假期家里有事，提前回去，就想着整理下买房的信息
 - [『you-need-know-house_knowledge』](https://github.com/fairyly/you-need-know-house_knowledge)
 
 ![](https://user-gold-cdn.xitu.io/2018/12/2/1676cea5fdcc2898?w=978&h=836&f=png&s=119230)
